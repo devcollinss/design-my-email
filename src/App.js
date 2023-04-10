@@ -1,25 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import GlobalStyles from "styles/GlobalStyles";
+import { css } from "styled-components/macro"; //eslint-disable-line
 
-function App() {
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { LandingPage } from "LandingPage";
+import Signin from "Auth/Signin";
+import Signup from "Auth/Signup";
+
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <GlobalStyles />
+      <Router>
+        <Routes>
+          <Route path="/" element={<LandingPage />} />
+          <Route path="/signup" element={<Signup />} />
+          <Route path="/signin" element={<Signin />} />
+        </Routes>
+      </Router>
+    </>
   );
 }
-
-export default App;
