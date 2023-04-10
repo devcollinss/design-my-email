@@ -1,5 +1,6 @@
 {
   "name": "design-my-email",
+  "homepage": "http://devcollins.github.io/design-my-email",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
