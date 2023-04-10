@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/design-my-email/static/css/main.c61fe05b.css",
+    "main.js": "/design-my-email/static/js/main.825547e7.js",
+    "static/media/design-illustration-2.svg": "/design-my-email/static/media/design-illustration-2.6da6a00b20c07c4a9b65d1870679e1b8.svg",
+    "static/media/stats-illustration.svg": "/design-my-email/static/media/stats-illustration.89e20edcbf2cccadc1f28b4a73a486ac.svg",
+    "static/media/email-illustration.svg": "/design-my-email/static/media/email-illustration.84fb82b841c197337a4bc2c1e660d5a0.svg",
+    "static/media/customers-logo-strip.png": "/design-my-email/static/media/customers-logo-strip.55c81ac36db9fdd15357.png",
+    "static/media/dot-pattern.svg": "/design-my-email/static/media/dot-pattern.ee6f4f0e6654d6e38850896165f9dc36.svg",
+    "static/media/login-illustration.svg": "/design-my-email/static/media/login-illustration.39a64f784d3474ef7b31bd14ad6360c7.svg",
+    "static/media/signup-illustration.svg": "/design-my-email/static/media/signup-illustration.2876a99f67ce2b50caba20ca9da1e6ee.svg",
+    "index.html": "/design-my-email/index.html",
+    "static/media/svg-decorator-blob-3.svg": "/design-my-email/static/media/svg-decorator-blob-3.de3cee31b9fcddf16b65056335c6f8e0.svg",
+    "static/media/quotes-l.svg": "/design-my-email/static/media/quotes-l.075e0fe3e775496713dce7e02c3f74ed.svg",
+    "static/media/svg-decorator-blob-6.svg": "/design-my-email/static/media/svg-decorator-blob-6.ea7897a9cabd18823c4ab12c47c149b9.svg",
+    "static/media/svg-decorator-blob-9.svg": "/design-my-email/static/media/svg-decorator-blob-9.8e136b6ba18ab63d97e6f62a68063192.svg",
+    "static/media/twitter-icon.svg": "/design-my-email/static/media/twitter-icon.828ecd04e4d4a4b4704330d1b8b1ebb9.svg",
+    "static/media/support-icon.svg": "/design-my-email/static/media/support-icon.f9253ffa8cb6ffde5bbaa05eb5136375.svg",
+    "static/media/simple-icon.svg": "/design-my-email/static/media/simple-icon.673b7e1750b2a4ef32907fc164828d00.svg",
+    "static/media/customize-icon.svg": "/design-my-email/static/media/customize-icon.367468c90fd796009b97fbfba67b2c6a.svg",
+    "static/media/svg-decorator-blob-1.svg": "/design-my-email/static/media/svg-decorator-blob-1.882b52f533a5f881fbac3178df042bb0.svg",
+    "static/media/shield-icon.svg": "/design-my-email/static/media/shield-icon.daefe14b320b14fbd9cbd18908ac93ec.svg",
+    "static/media/svg-decorator-blob-7.svg": "/design-my-email/static/media/svg-decorator-blob-7.04fa60c9416090a003233f93c9de14b1.svg",
+    "static/media/user-plus.svg": "/design-my-email/static/media/user-plus.7df9a289df2eaf4229e6091b340a9799.svg",
+    "static/media/youtube-icon.svg": "/design-my-email/static/media/youtube-icon.10cce4d9ddf73bc36fc6b15d5639c0ff.svg",
+    "static/media/logo.svg": "/design-my-email/static/media/logo.0815904e39d5ce01dd667e7039f0300c.svg",
+    "static/media/logo-light.svg": "/design-my-email/static/media/logo-light.b16aeae03695b91318f647a782be65ce.svg",
+    "static/media/log-in.svg": "/design-my-email/static/media/log-in.26463742329bbcff0cc5bfdfc7459026.svg",
+    "static/media/menu.svg": "/design-my-email/static/media/menu.644fa295fdd5f662e642ba6bfb084239.svg",
+    "static/media/reliable-icon.svg": "/design-my-email/static/media/reliable-icon.1367510a8f0a1bec76dc425d25f92f43.svg",
+    "static/media/x.svg": "/design-my-email/static/media/x.6c9a4ba71a333be7b021fc6da39d864c.svg",
+    "static/media/fast-icon.svg": "/design-my-email/static/media/fast-icon.dbb971a73d4805d2fc3bcdacdb55beba.svg",
+    "static/media/facebook-icon.svg": "/design-my-email/static/media/facebook-icon.8f6512c4ee4f21763666f0f3b69d970d.svg",
+    "static/media/arrow-left-3-icon.svg": "/design-my-email/static/media/arrow-left-3-icon.d48c6bae447f4492e1860f8a253007c8.svg",
+    "static/media/arrow-right-3-icon.svg": "/design-my-email/static/media/arrow-right-3-icon.d415f77e8dc81ff77fdb53c0ee2da771.svg",
+    "main.c61fe05b.css.map": "/design-my-email/static/css/main.c61fe05b.css.map",
+    "main.825547e7.js.map": "/design-my-email/static/js/main.825547e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c61fe05b.css",
+    "static/js/main.825547e7.js"
+  ]
+}
