@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/design-my-email/static/css/main.c61fe05b.css",
-    "main.js": "/design-my-email/static/js/main.327f351d.js",
+    "main.js": "/design-my-email/static/js/main.ce55e46f.js",
     "static/media/design-illustration-2.svg": "/design-my-email/static/media/design-illustration-2.6da6a00b20c07c4a9b65d1870679e1b8.svg",
     "static/media/stats-illustration.svg": "/design-my-email/static/media/stats-illustration.89e20edcbf2cccadc1f28b4a73a486ac.svg",
     "static/media/email-illustration.svg": "/design-my-email/static/media/email-illustration.84fb82b841c197337a4bc2c1e660d5a0.svg",
@@ -34,10 +34,10 @@
     "static/media/arrow-left-3-icon.svg": "/design-my-email/static/media/arrow-left-3-icon.d48c6bae447f4492e1860f8a253007c8.svg",
     "static/media/arrow-right-3-icon.svg": "/design-my-email/static/media/arrow-right-3-icon.d415f77e8dc81ff77fdb53c0ee2da771.svg",
     "main.c61fe05b.css.map": "/design-my-email/static/css/main.c61fe05b.css.map",
-    "main.327f351d.js.map": "/design-my-email/static/js/main.327f351d.js.map"
+    "main.ce55e46f.js.map": "/design-my-email/static/js/main.ce55e46f.js.map"
   },
   "entrypoints": [
     "static/css/main.c61fe05b.css",
-    "static/js/main.327f351d.js"
+    "static/js/main.ce55e46f.js"
   ]
 }
